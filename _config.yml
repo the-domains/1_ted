@@ -1,0 +1,14 @@
+layout_spectrum: 0.8668799
+typography_spectrum: 0.9361556
+color:
+  saturation: 0.07258093
+  lightness: 0.7564273
+  brandStrength: 0.7163009
+  rhythmicContrast: 0.9194766
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: 1_Ted
