@@ -10,17 +10,17 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+typography_spectrum: 0.9361556
 color:
   saturation: 0.6922663
   brandStrength: 0.7163009
   lightness: 0.5537057
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#28292E'
+    - '#ABA488'
+    - '#67554A'
+    - '#FCFCFB'
+    - '#E92732'
   rhythmicContrast: 0.9194766
-typography_spectrum: 0.9361556
 layout_spectrum: 1
 name: 1_Ted
