@@ -34,7 +34,7 @@ color:
     - '#FCFCFB'
     - '#E92732'
   brandStrength: 0.3125
-  lightness: 0.5537057
-  saturation: 0.6922663
-  rhythmicContrast: 0.9194766
+  lightness: 0.8125
+  saturation: 1
+  rhythmicContrast: 1
 purpose: []
